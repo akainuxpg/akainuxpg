@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff7300&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff7300&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+AKAINUXPG;I'm+23+Years+Old.;I'm+From+Recife+-+PE;I'm+a+Systems+Analyst+and+Develope+in+progress;Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff7300&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+GABRIEL+OLIVEIRA;I'm+23+Years+Old.;I'm+From+Olinda+-+PE;I'm+a+Systems+Analyst+and+Software+Engineer+in+progress;Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Akainuxpg&show_icons=true&count_private=true&hide_border=true&title_color=ff7300&icon_color=ff7300&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
@@ -15,9 +15,7 @@
 <br>
 <div align="center">  
   <a href="https://www.linkedin.com/in/gabriel-cunha-xp/" target="_blank"><img src="https://img.shields.io/badge/-linkedin-white?style=for-the-badge&logo=linkedin&logoColor=blue"</a>
-    <a href="file://C:/Users/gabel/Downloads/curriculo%203.00.pdf" target="_blank"><img src="https://img.shields.io/badge/-meu currículo-ff7300?style=for-the-badge&logo=&logoColor=ff7300"</a>
-<a href="https://www.instagram.com/gabriel_oliveira.xp/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-     <a href="https://w.app/Akainuxpg" target="_blank"><img src="https://img.shields.io/badge/-whatsapp-28C666?style=for-the-badge&logo=whatsapp&logoColor=white"</a> 
+  <a href="https://www.instagram.com/gabriel_oliveira.xp/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </div>   
        
  <br>
