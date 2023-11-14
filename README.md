@@ -15,7 +15,7 @@
 <br>
 <div align="center">  
   <a href="https://www.linkedin.com/in/gabriel-cunha-xp/" target="_blank"><img src="https://img.shields.io/badge/-linkedin-white?style=for-the-badge&logo=linkedin&logoColor=blue"</a>
-    <a href="https://flowcv.com/resume/1rks9tuv95" target="_blank"><img src="https://img.shields.io/badge/-meu currículo-ff7300?style=for-the-badge&logo=&logoColor=ff7300"</a>
+    <a href="file://C:/Users/gabel/Downloads/curriculo%203.00.pdf" target="_blank"><img src="https://img.shields.io/badge/-meu currículo-ff7300?style=for-the-badge&logo=&logoColor=ff7300"</a>
 <a href="https://www.instagram.com/gabriel_oliveira.xp/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
      <a href="https://w.app/Akainuxpg" target="_blank"><img src="https://img.shields.io/badge/-whatsapp-28C666?style=for-the-badge&logo=whatsapp&logoColor=white"</a> 
 </div>   
